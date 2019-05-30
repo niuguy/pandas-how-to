@@ -12,4 +12,4 @@ answers purified and organized for quick reference.
 8. [How to get the row count](Python-notebooks/How-to-get-the-row-count.ipynb)
 9. [How to add one row](Python-notebooks/How-to-add-one-row.ipynb)
 10. [How to change the order of DataFrame columns](Python-notebooks/How-to-change-the-order-of-DataFrame-columns)
-11. [How to select multiple columns](Python-notebooks/How-to-select-multiple-columns-columns.ipynb)
+11. [How to change data type of columns](Python-notebooks/How-to-change-data-type-of-columns.ipynb)
