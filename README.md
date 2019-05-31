@@ -1,15 +1,32 @@
-## Top asked [Pandas] questions on Stackoverflow
+## Pandas How To
 
-answers purified and organized for quick reference. 
+-- Top asked [Pandas] questions on Stackoverflow, grouped with answers organized.
 
-1. [How to rename columns](IPython-notebooks/How-to-rename-columns.ipynb) 
-2. [How to select rows based on column values](IPython-notebooks/How-to-select-rows-based-on-column-values.ipynb)
-3. [How to iterate over rows](IPython-notebooks/How-to-iterate-over-rows.ipynb) 
-4. [How to delete columns](IPython-notebooks/How-to-delete-columns.ipynb)
-5. [How to get a list of column headers](IPython-notebooks/How-to-get-a-list-of-column-headers.ipynb)
-6. [How to add new column to existing DataFrame](Python-notebooks/How-to-add-new-column-to-existing-DataFrame.ipynb)
-7. [How to select multiple columns](IPython-notebooks/How-to-select-multiple-columns.ipynb)
-8. [How to get the row count](IPython-notebooks/How-to-get-the-row-count.ipynb)
-9. [How to add one row](IPython-notebooks/How-to-add-one-row.ipynb)
-10. [How to change the order of DataFrame columns](IPython-notebooks/How-to-change-the-order-of-DataFrame-columns)
-11. [How to change data type of columns](IPython-notebooks/How-to-change-data-type-of-columns.ipynb)
+### I/O tools
+
+
+### Merge, join, and delete
+
+* [How to add new column to existing DataFrame](Python-notebooks/How-to-add-new-column-to-existing-DataFrame.ipynb)
+* [How to add one row](IPython-notebooks/How-to-add-one-row.ipynb)
+* [How to delete columns](IPython-notebooks/How-to-delete-columns.ipynb)
+* [How to drop rows containing nan](IPython-notebooks/How-to-drop-rows-containing-nan.ipynb)
+
+### Indexing and Selecting
+
+* [How to select rows based on column values](IPython-notebooks/How-to-select-rows-based-on-column-values.ipynb)
+* [How to get a list of column headers](IPython-notebooks/How-to-get-a-list-of-column-headers.ipynb)
+* [How to select multiple columns](IPython-notebooks/How-to-select-multiple-columns.ipynb)
+* [How to iterate over rows](IPython-notebooks/How-to-iterate-over-rows.ipynb) 
+* [How to get a list of column headers](IPython-notebooks/How-to-get-a-list-of-column-headers.ipynb)
+
+ 
+
+### Statistics
+
+* [How to get the row count](IPython-notebooks/How-to-get-the-row-count.ipynb) 
+
+### Metadata changing
+* [How to rename columns](IPython-notebooks/How-to-rename-columns.ipynb) 
+* [How to change the order of DataFrame columns](IPython-notebooks/How-to-change-the-order-of-DataFrame-columns)
+* [How to change data type of columns](IPython-notebooks/How-to-change-data-type-of-columns.ipynb)
