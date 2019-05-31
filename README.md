@@ -7,7 +7,7 @@
 
 ### Merge, join, and delete
 
-* [How to add new column to existing DataFrame](Python-notebooks/How-to-add-new-column-to-existing-DataFrame.ipynb)
+* [How to add new column to existing DataFrame](IPython-notebooks/How-to-add-new-column-to-existing-DataFrame.ipynb)
 * [How to add one row](IPython-notebooks/How-to-add-one-row.ipynb)
 * [How to delete columns](IPython-notebooks/How-to-delete-columns.ipynb)
 * [How to drop rows containing nan](IPython-notebooks/How-to-drop-rows-containing-nan.ipynb)
@@ -28,5 +28,5 @@
 
 ### Metadata changing
 * [How to rename columns](IPython-notebooks/How-to-rename-columns.ipynb) 
-* [How to change the order of DataFrame columns](IPython-notebooks/How-to-change-the-order-of-DataFrame-columns)
+* [How to change the order of DataFrame columns](IPython-notebooks/How-to-change-the-order-of-DataFrame-columns.ipynb)
 * [How to change data type of columns](IPython-notebooks/How-to-change-data-type-of-columns.ipynb)
